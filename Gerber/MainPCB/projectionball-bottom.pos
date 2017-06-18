@@ -1,0 +1,9 @@
+### Module positions - created on 2017/06/17 11:06:43 ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+M2       DM3AT-SF-PEJ     sd-card-DM3AT-SF   62.5000    96.0000       0.0    bottom
+PAD1     WIREPADSMD2_54-5 wirepad-SMD2_54-   19.5000    64.0000     345.0    bottom
+PAD2     WIREPADSMD2_54-5 wirepad-SMD2_54-   18.5000    45.5000      10.0    bottom
+## End

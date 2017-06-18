@@ -1,0 +1,16 @@
+### Module positions - created on 2017/03/04 23:15:22 ###
+### Printed by Pcbnew version kicad 4.0.1-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       10uF/CAPACITOR16 generic-SMD2012    12.5000    13.0000       0.0    top
+C2       0.1uF/CAPACITOR1 generic-SMD1608     9.0000    13.0000     180.0    top
+IC1      AS5048           ams5048a-TSSOP14   10.0000     8.0000      90.0    top
+R1       RESISTOR1608     generic-SMD1608     3.0000     5.0000     180.0    top
+R2       RESISTOR1608     generic-SMD1608     3.0000     7.0000     180.0    top
+R3       RESISTOR1608     generic-SMD1608     3.0000     9.0000     180.0    top
+R4       RESISTOR1608     generic-SMD1608    17.0000     5.0000       0.0    top
+R5       RESISTOR1608     generic-SMD1608    17.0000     7.0000       0.0    top
+R6       RESISTOR1608     generic-SMD1608    17.0000     9.0000       0.0    top
+TP1      TPTP20SQ         testpad-TP10SQ      6.0000    10.5000       0.0    top
+## End
